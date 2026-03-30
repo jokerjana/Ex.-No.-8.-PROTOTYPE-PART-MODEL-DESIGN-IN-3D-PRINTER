@@ -47,6 +47,9 @@
 
 ## Output:
 <img width="1918" height="1192" alt="image" src="https://github.com/user-attachments/assets/e90482fe-08f9-4c49-925d-747ca4fd3abb" />
+<img width="1588" height="757" alt="Screenshot 2026-03-30 213041" src="https://github.com/user-attachments/assets/1afe0a64-b91a-4093-aaa5-032a1dcbaf0f" />
+<img width="1554" height="843" alt="Screenshot 2026-03-30 213118" src="https://github.com/user-attachments/assets/bcbc2e01-295a-473d-97bf-2e1cd1186af6" />
+
 
 ### Name: JANARTHANAN B
 ### Register Number: 212223100014
